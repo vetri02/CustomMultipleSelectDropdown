@@ -1,4 +1,4 @@
 CustomMultipleSelectDropdown
 ============================
 
-![Alt text](/path/to/img.jpg "Optional title")
+![How to](/path/to/img.jpg)
